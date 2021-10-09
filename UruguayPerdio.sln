@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDeDatos", "CapaDeDatos\CapaDeDatos.csproj", "{3B55AA8C-BCF3-4F68-9A39-B05AE3BD5963}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaLogica", "CapaLogica\CapaLogica.csproj", "{A9B4F0C8-21A6-40C9-8F21-952950D19472}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "GUI\GUI.csproj", "{84734D65-4E3E-430F-8565-CF57B76CDEA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B55AA8C-BCF3-4F68-9A39-B05AE3BD5963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B55AA8C-BCF3-4F68-9A39-B05AE3BD5963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B55AA8C-BCF3-4F68-9A39-B05AE3BD5963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B55AA8C-BCF3-4F68-9A39-B05AE3BD5963}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9B4F0C8-21A6-40C9-8F21-952950D19472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9B4F0C8-21A6-40C9-8F21-952950D19472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9B4F0C8-21A6-40C9-8F21-952950D19472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9B4F0C8-21A6-40C9-8F21-952950D19472}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84734D65-4E3E-430F-8565-CF57B76CDEA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84734D65-4E3E-430F-8565-CF57B76CDEA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84734D65-4E3E-430F-8565-CF57B76CDEA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84734D65-4E3E-430F-8565-CF57B76CDEA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AC0A7C1-91F3-4C11-8F55-77E60A650C61}
+	EndGlobalSection
+EndGlobal
